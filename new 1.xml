@@ -1,0 +1,15 @@
+[17:22] Bruno Oliveira
+    atributos descriptivos não são utilizados em operações de agregação, enquanto que os dimensionais sim
+​[17:23] Bruno Oliveira
+    nome completo -> atributo descritivo
+​[17:23] Bruno Oliveira
+    genero -> dimensional
+
+
+--Duvida por exemplo se descriaçao artigo ou artigo qual deles agrupa
+
+--DegeneratedDimensoes
+--measures, nas dims nao tem???
+
+
+//Tipo de dados de cada atributo pode ser descartado
